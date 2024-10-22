@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/ameithor"><img src="https://api.daily.dev/devcards/v2/27TSCMThTACH6I4nQSKRA.png?type=default&r=d6x" width="356" alt="Amador Criado's Dev Card"/></a>
 <!--
 **acriado-dev/acriado-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
